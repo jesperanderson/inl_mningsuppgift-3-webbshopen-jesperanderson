@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "The Simpsons",
+        "price": 150,
+        "description": "Följ den ikoniska familjen Simpson i deras vardagsliv i Springfield, fyllt med humor, satir och galna upptåg.",
+        "image": "the_simpsons.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Family Guy",
+        "price": 190,
+        "description": "Utforska de absurda och komiska äventyren hos familjen Griffin, ledda av den osannolika patriarken Peter.",
+        "image": "family_guy.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "The Looney Tunes Show",
+        "price": 300,
+        "description": "Den klassiska serien med älskade karaktärer som Bugs Bunny och Daffy Duck, i en modern och komisk tappning.",
+        "image": "loony_tunes.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Scooby Doo",
+        "price": 390,
+        "description": "Häng med Scooby-Doo och Mystery Inc-gänget när de löser mysterier och jagar spöken i den här tidlösa serien.",
+        "image": "scooby_doo.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Bob's Burgers",
+        "price": 100,
+        "description": "Följ familjen Belcher när de driver en hamburgarrestaurang och hanterar komiska utmaningar i vardagslivet.",
+        "image": "bob_burger.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Phineas & Ferb",
+        "price": 110,
+        "description": "De uppfinningsrika bröderna Phineas och Ferb skapar fantastiska uppfinningar varje dag under sommarlovet, till Candaces frustration.",
+        "image": "phineas_ferb.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Kim Possible",
+        "price": 125,
+        "description": "Tonåringen Kim Possible balanserar sitt vanliga liv med att vara en hemlig agent och bekämpa skurkar runt om i världen.",
+        "image": "kim_possible.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "American Dad",
+        "price": 100,
+        "description": "En satirisk skildring av en patriotisk CIA-agent och hans dysfunktionella familj med mycket humor och absurda situationer.",
+        "image": "american_dad.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Batman",
+        "price": 170,
+        "description": "Gothams mörka riddare, Batman, bekämpar brott och hans ökända skurkgalleri i denna actionfyllda serie.",
+        "image": "batman.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Spider-Man",
+        "price": 400,
+        "description": "Följ Peter Parker, aka Spider-Man, när han kämpar mot skurkar och navigerar livet som superhjälte i New York City.",
+        "image": "spider_man.jpg"
+    }
+]
